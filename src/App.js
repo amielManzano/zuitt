@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className="footer">
+        <h3>This is a footer</h3>
+      </div>
     </div>
   );
 }
